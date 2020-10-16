@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-Author: Munish
-Date: 16/10/20
-Program: Install docker on fresh ubuntu 20.04
+#Author: Munish
+#Date: 16/10/20
+#Program: Install docker on fresh ubuntu 20.04
 
 
 
